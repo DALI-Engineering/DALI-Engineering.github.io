@@ -2,12 +2,12 @@
 ## Product Design & Development
 
 **Winter 2026**  
-Dartmouth Applied Learning and Innovation Lab (DALI)
+Digital Applied Learning and Innovation Lab (DALI)
 
 This mini-series is an accelerated, hands-on introduction to **hardware product design and development**.  
 Over nine weeks, students will work through the full product journey and collaboratively design and build a **functional desk lamp**.
 
-This website serves as the **central reference** for the course, including weekly content, expectations, and example documentation.
+Alongside with the Notion page, this website serves as the **central reference** for the course, including weekly content, expectations, and example documentation.
 
 ---
 
@@ -19,8 +19,6 @@ This website serves as the **central reference** for the course, including weekl
 - How to document engineering work clearly and professionally
 - How to use digital fabrication tools such as: 3D printers, Laser Cutters, Vinyl Cutters, CNC mills
 
-This course emphasizes **process over perfection**.
-
 ---
 
 ## Final Outcome
@@ -28,7 +26,7 @@ This course emphasizes **process over perfection**.
 By the end of the mini-series, every participant will have:
 
 - A completed, functional desk lamp  
-- Experience using engineering tools and fabrication methods  
+- Experience using engineering tools and fabrication methods avaible at the Cable Makerspace
 - A public portfolio documenting their design process  
 
 ---
